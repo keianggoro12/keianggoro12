@@ -28,5 +28,7 @@
     <a href="https://github.com/keianggoro12/" target="_blank"><img src="https://shields.io/badge/keianggoro12-111111.svg?&style=for-the-badge&logo=github"></a>  
     <a href="https://www.instagram.com/keianggoro12/" target="_blank"><img src="https://shields.io/badge/keianggoro12-111111.svg?&style=for-the-badge&logo=instagram"></a>  
     <a href="https://twitter.com/keianggoro12/" target="_blank"><img src="https://shields.io/badge/keianggoro12-111111.svg?&style=for-the-badge&logo=twitter"></a>
+    <br>
     <a href="mailto:keianggoro12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/juliardi-dwi-anggoro-b40449257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
