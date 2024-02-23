@@ -28,5 +28,5 @@
     <a href="https://github.com/keianggoro12/" target="_blank"><img src="https://shields.io/badge/keianggoro12-111111.svg?&style=for-the-badge&logo=github"></a>  
     <a href="https://www.instagram.com/keianggoro12/" target="_blank"><img src="https://shields.io/badge/keianggoro12-111111.svg?&style=for-the-badge&logo=instagram"></a>  
     <a href="https://twitter.com/keianggoro12/" target="_blank"><img src="https://shields.io/badge/keianggoro12-111111.svg?&style=for-the-badge&logo=twitter"></a>
-    [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keianggoro12@gmail.com)
+    <a href="mailto:keianggoro12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
