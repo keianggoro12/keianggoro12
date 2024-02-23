@@ -20,7 +20,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=keianggoro12&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=keianggoro12&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=keianggoro12&show_icons=true&layout=compact&theme=tokyonight" alt="keianggoro12" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=keianggoro12&show_icons=true&layout=compact&theme=tokyonight" alt="keianggoro12" />
 </div>
 
 <!-- Contact me -->
