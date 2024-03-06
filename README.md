@@ -5,7 +5,7 @@
 
 <p>Im Quality Assurance Engineer from <a href="https://academy.alterra.id/">Alterra Academy! </a> :dart: </p>
 <div style="text-align: justify;">
-<p>As a Junior QA Engineer, I specialize in crafting web automation solutions using Cucumber Selenium Java, ensuring robust and efficient testing protocols. I'm adept at API testing utilizing Postman and Cucumber Serenity BDD in tandem with Rest Assured. My skill set extends to proficiently managing projects through tools like Trello and maintaining structured test cases via TestRail for streamlined testing processes.</p>
+<p>As a QA Engineer, I specialize in crafting web automation solutions using Cucumber Selenium Java, ensuring robust and efficient testing protocols. I'm adept at API testing utilizing Postman and Cucumber Serenity BDD in tandem with Rest Assured. My skill set extends to proficiently managing projects through tools like Trello and maintaining structured test cases via TestRail for streamlined testing processes.</p>
 </div>
 
 # 💻 Tech Stack:
