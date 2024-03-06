@@ -4,7 +4,9 @@
 </p>
 
 <p>Im Quality Assurance Engineer from <a href="https://academy.alterra.id/">Alterra Academy! </a> :dart: </p>
+<div style="text-align: justify;">
 <p>As a Junior QA Engineer, I specialize in crafting web automation solutions using Cucumber Selenium Java, ensuring robust and efficient testing protocols. I'm adept at API testing utilizing Postman and Cucumber Serenity BDD in tandem with Rest Assured. My skill set extends to proficiently managing projects through tools like Trello and maintaining structured test cases via TestRail for streamlined testing processes.</p>
+</div>
 
 # 💻 Tech Stack:
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
@@ -30,9 +32,9 @@
 # Statistic 
 ![](https://komarev.com/ghpvc/?username=keianggoro12&color=000000) 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=keianggoro12&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=keianggoro12&theme=dark">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=keianggoro12&show_icons=true&layout=compact&theme=tokyonight" alt="keianggoro12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keianggoro12&show_icons=true&hide=issues&icon_color=C9D1D9&hide_border=false&title_color=C9D1D9&text_color=8B948D&bg_color=0D1117&theme=dark" style="width: 400px; margin-bottom: 20px;" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=keianggoro12&theme=dark" style="width: 400px; margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keianggoro12&show_icons=true&layout=compact&theme=tokyonight" alt="keianggoro12" style="width: 400px; margin-bottom: 20px;" />
 </div>
 
 <!-- Contact me -->
