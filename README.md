@@ -1,11 +1,9 @@
 # Hi, keianggoro here ! <img src="https://c.tenor.com/-169fSymeTgAAAAi/anime-girl.gif" width="100">
 
-<p dir="auto">
-</p>
 
-<p>Im Quality Assurance Engineer from <a href="https://academy.alterra.id/">Alterra Academy! </a> :dart: </p>
+<p>Im a Quality Assurance Engineer from anywhere</p>
 <div style="text-align: justify;">
-<p>As a QA Engineer, I specialize in crafting web automation solutions using Cucumber Selenium Java, ensuring robust and efficient testing protocols. I'm adept at API testing utilizing Postman and Cucumber Serenity BDD in tandem with Rest Assured. My skill set extends to proficiently managing projects through tools like Trello and maintaining structured test cases via TestRail for streamlined testing processes.</p>
+<p>As a QA Engineer, I specialize in crafting web automation solutions using Playwright with TypeScript and JavaScript, ensuring robust and efficient testing protocols. I'm adept at API testing utilizing Postman and Playwright. My skill set extends to proficiently managing projects through tools like Trello and maintaining structured test cases via TestRail for streamlined testing processes.</p>
 </div>
 
 # 💻 Tech Stack:
@@ -16,9 +14,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Selenium Webdriver](https://img.shields.io/badge/-selenium-239120?style=for-the-badge&logo=selenium&logoColor=white)
-![Serenity BDD](https://img.shields.io/badge/-serenitybdd-239120?style=for-the-badge&logo=serenitybdd&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-testrail-239120?style=for-the-badge&logo=testrail&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
